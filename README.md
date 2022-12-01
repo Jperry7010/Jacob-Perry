@@ -4,7 +4,7 @@
   
 </div>
 <div align="center">
-  About me: I am a student at University of Texas at San Antonio
+  - About me :About me: I am a student at the University of Texas at San Antonio with an aspiration for a Cyber Security Major
 </div>
 <div>
 </div>
